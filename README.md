@@ -1,6 +1,6 @@
 ﻿# Ziki Agent Buddies
 
-A small React + Vite concept featuring four expressive agent characters: working, completed, needs attention, and idle. All activity is sample data held in the browser; this project does not connect to Ziki services or production data.
+A small React + Vite concept featuring one friendly Ziki agent. Its eyes follow a mouse pointer, and clicking, tapping, or pressing it gives a brief hello. This project is independent of Task 1 and does not connect to Ziki services or production data.
 
 ## Run locally
 
