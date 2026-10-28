@@ -2,6 +2,8 @@
 
 A small React + Vite concept featuring one friendly Ziki agent. Its eyes follow a mouse pointer, and clicking, tapping, or pressing it gives a brief hello. This project is independent of Task 1 and does not connect to Ziki services or production data.
 
+**Live demo:** [ziki-agent-buddies-xm2u.vercel.app](https://ziki-agent-buddies-xm2u.vercel.app/)
+
 ## Run locally
 
 Requires Node.js 20.19 or later.
@@ -24,7 +26,7 @@ The static production output is written to `dist/`. There are no environment var
 
 ## Deploy
 
-On a static host such as Vercel, use `npm run build` as the build command and `dist` as the output directory. No server-side routing or environment variables are required. You can deploy by importing the repository in your hosting provider after creating it; this project has not been deployed.
+The live app is hosted on Vercel. Build with `npm run build` and use `dist` as the output directory. No server-side routing or environment variables are required.
 
 ## GitHub
 
